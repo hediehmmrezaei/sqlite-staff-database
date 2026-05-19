@@ -24,27 +24,45 @@ The instructor data contains the following information:
 - City
 - Country Code
 
-##Output
+Output
+
 When the script runs successfully, it creates:
+
 STAFF.db
+
 It also prints the SQL query results in the terminal, including:
 All instructor records
+
 Instructor first names
+
 Total number of records
+
 Confirmation that a new record was appended successfully
 
-##What I Learned
+What I Learned
+
 Through this project, I learned how to:
+
 Read CSV files using pandas
+
 Store CSV data in a pandas DataFrame
+
 Create a SQLite database using Python
+
 Save a DataFrame into a SQL table
+
 Run SQL queries in Python
+
 Count records in a database table
+
 Append a new record to an existing SQL table
+
 Close a database connection properly
+
 Use Git and GitHub to upload a project
+
 Author
+
 Hedieh
 
 
